@@ -1,0 +1,16 @@
+h1{
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  background-color: white;
+}
+body{
+    background-image: url("../img/breen.png");
+    background-repeat: repeat;
+}
+
+p{
+  color: black;
+  border: 2px solid black;
+  background-color: white;
+}
