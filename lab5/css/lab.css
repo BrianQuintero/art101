@@ -1,0 +1,30 @@
+body{
+  background-image: url("../img/image.png");
+  background-repeat: repeat;
+}
+
+div{
+  background-color: yellow;
+  color: black;
+  border: 2px solid black;
+}
+
+h2{
+  color: red;
+  background-color: green;
+  text-align: center;
+  font-size: 200%;
+}
+
+h3{
+  background-color: blue;
+  color: orange;
+  text-align: center;
+  font-size: 125%;
+}
+
+p{
+  background-color: purple;
+  color: white;
+  font-size: 130%;
+}
