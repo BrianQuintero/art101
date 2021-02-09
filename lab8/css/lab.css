@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+h2 {
+  text-align: center;
+  border-style: solid;
+  border-color: blue;
+}
+
+p {
+  font-size: 125%;
+  font-family: cursive;
+}
