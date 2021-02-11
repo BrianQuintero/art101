@@ -1,0 +1,19 @@
+body {
+  background-color: #FF4545;
+  font-size: 125%;
+  font-style: italic;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  font-family: fantasy;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  font-size: 130%;
+  font-style: italic;
+  text-align: center;
+}
