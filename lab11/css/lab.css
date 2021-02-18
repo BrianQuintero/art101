@@ -1,0 +1,36 @@
+#challenges{
+  color:blue;
+  background-color: lightblue;
+  border: 2px solid blue;
+  font-family: monospace;
+  font-size: 150%;
+}
+#problems{
+  color:green;
+  background-color:beige;
+  border: 2px solid green;
+  font-family: monospace;
+  font-size: 150%;
+}
+#results{
+  color:red;
+  background-color: pink;
+  border: 2px solid red;
+  font-family: monospace;
+  font-size: 150%;
+}
+
+button.special {
+  background-color: lightblue;
+  font-family: monospace;
+}
+
+button.special2 {
+  background-color: beige;
+  font-family: monospace;
+}
+
+button.special3 {
+  background-color: pink;
+  font-family: monospace;
+}
