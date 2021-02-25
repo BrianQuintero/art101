@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lab 13</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <link rel = "stylesheet" type = "text/css" href = "css/lab.css">
+    <script src="js/lab.js" defer></script>
+  </head>
+  <body>
+    <h2>Challenges:</h2>
+    <p>We decided to challenge ourselves to hardcode as little of this assignment as possible.
+    It did mean we had to juggle a lot of variables, but it's more flexible in the long run, which
+  is nice!</p>
+    <h2>Problems:</h2>
+    <p>Turns out iterating through a for loop means you use a "var" rather than an "int". Who would have guessed?</p>
+    <h2>Results:</h2>
+    Where should we stop? <input type="number" min='0' max="200" id="length"></input><br>
+    Which factors should print what?<br>
+    <table>
+      <th>Factor:</th>
+      <th>Prints What?</th>
+      <tr>
+        <td><input type="number" min="0" max="20" id="num1"></input></td>
+        <td><input type="text" id="text1"></input></td>
+      </tr>
+      <tr>
+        <td><input type="number" min="0" max="20" id="num2"></input></td>
+        <td><input type="text" id="text2"></input></td>
+      </tr>
+      <tr>
+        <td><input type="number" min="0" max="20" id="num3"></input></td>
+        <td><input type="text" id="text3"></input></td>
+      </tr>
+      <tr>
+        <td><input type="number" min="0" max="20" id="num4"></input></td>
+        <td><input type="text" id="text4"></input></td>
+      </tr>
+    </table>
+    <button type="button" id="submit">Submit</button>
+    <h3>Output:</h3>
+    <div id="output"></div>
+  </body>
+</html>
