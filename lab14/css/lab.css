@@ -1,0 +1,14 @@
+body {
+  background-color: beige;
+}
+
+h2 {
+  text-align: center;
+  font-size: 150%;
+  font-style: italic;
+}
+
+p{
+  background-color: #e9967a;
+  border: 2px solid black;
+}
