@@ -8,7 +8,7 @@ var picture = document.getElementById("picture");
 buttonEl.addEventListener("click", function(){
   $.ajax({
       // The URL for the request (from the api docs)
-      url: "http://xkcd.com/info.0.json",
+      url: "https://xkcd.com/info.0.json",
       // The data to send (will be converted to a query string)
       /*data: {
         api_key: "X92XrOhK65HfUY9pq7XXzon2Z5TAmsmmpJ0J3I4S",
