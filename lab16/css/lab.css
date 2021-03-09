@@ -1,0 +1,23 @@
+body {
+  background-color: beige;
+}
+
+h2 {
+  font-size: 125%;
+  font-family: cursive;
+  font-style: italic;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  font-size: 130%;
+  font-family: monospace;
+
+}
+
+button {
+  color: red;
+  background-color: black;
+  font-size: 150%;
+}
